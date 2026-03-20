@@ -1,0 +1,8 @@
+Model Performance Results
+=========================
+
+Logistic Regression: Accuracy = 0.8070
+Decision Tree: Accuracy = 0.7410
+Random Forest: Accuracy = 0.7857
+
+Best Model: Logistic Regression with Accuracy = 0.8070
